@@ -1,0 +1,12 @@
+# Ignore large datasets
+*.csv
+!cleaned_brfss_2015.csv
+!trimmed_2015_raw.csv
+
+# Ignore system and notebook temp files
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.log
+*.tmp
+*.zip
