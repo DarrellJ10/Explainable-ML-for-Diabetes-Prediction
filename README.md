@@ -73,8 +73,8 @@ Key Features Used:
 
 ## LIBRARIES NEEDED 
 # Install all required packages for the Diabetes + Random Forest + SHAP project
-
-!pip install pandas numpy scikit-learn shap matplotlib seaborn plotly tqdm imbalanced-learn
+import sys
+!{sys.executable} -m pip install pandas numpy scikit-learn shap matplotlib seaborn plotly tqdm imbalanced-learn
 
 ---
 
