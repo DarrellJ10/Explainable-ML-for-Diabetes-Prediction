@@ -71,5 +71,10 @@ Key Features Used:
 | Version Control | Git & GitHub |
 | Dataset | CDC BRFSS 2015 (Kaggle) |
 
+## LIBRARIES NEEDED 
+# Install all required packages for the Diabetes + Random Forest + SHAP project
+
+!pip install pandas numpy scikit-learn shap matplotlib seaborn plotly tqdm imbalanced-learn
+
 ---
 
